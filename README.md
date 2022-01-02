@@ -44,9 +44,9 @@ Parameters:
 
 + To run, open *bot.py* in IDLE (screenshots below)  
 
-![IDLE run](/images/IDLE%20%231.jpg)  
+![IDLE run](/images/idle1.jpg)  
 
-![IDLE run](/images/IDLE%20%232.png)
+![IDLE run](/images/idle2.jpg)
         
 + Follow the instructions in IDLE
 
