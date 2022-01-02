@@ -46,9 +46,9 @@
 
 + Для запуска откройте *bot.py* в IDLE(скрины ниже)  
 
-![Запуск IDLE](/images/IDLE%20%231.jpg)  
+![Запуск IDLE](/images/idle1.jpg)  
 
-![Запуск IDLE](/images/IDLE%20%232.png)
+![Запуск IDLE](/images/idle2.jpg)
         
 + Cледуйте инструкциям в IDLE
 
